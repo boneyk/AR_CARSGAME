@@ -1,0 +1,4 @@
+repository "AR-project@plyusnina@cloud"
+  path "/"
+    br "/main"
+    co "/main"
